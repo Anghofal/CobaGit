@@ -1,2 +1,2 @@
 # CobaGit
-Mencoba github
+Mencoba github...
